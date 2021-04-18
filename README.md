@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ryan, a developer 👨‍💻 working peacefully since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on a music app.  
+- 🔭 I’m currently working on a discord bot.  
   
 
 - 🌱 I’m currently coding in Javascript and HTMl.  
