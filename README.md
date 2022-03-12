@@ -57,16 +57,9 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RyanChan020408&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ryan0204&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-  
-
-![](https://hit.yhype.me/github/profile?user_id=79978551)
-
-
-You can always Support me by inviting one of my **own Discord Bots**
-
-[![Dark](https://firebasestorage.googleapis.com/v0/b/dcdarkbot.appspot.com/o/Dark.jpg?alt=media&token=e93f426a-dae6-4c95-8624-6a4fd609e792)](https://dcdarkbot.web.app/)
+ 
 
